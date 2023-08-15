@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "66934-map-google-pin-icons-maps-computer-maker-thumb.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "66934-map-google-pin-icons-maps-computer-maker-thumb 1.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "66934-map-google-pin-icons-maps-computer-maker-thumb 2.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
